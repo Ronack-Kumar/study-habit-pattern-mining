@@ -22,7 +22,7 @@ Takes a dataset of student habits — study hours, sleep, social media usage, at
 ## Running locally
 
 ```bash
-git clone https://github.com/Raunack/study-habit-pattern-mining.git
+git clone https://github.com/Ronack-Kumar/study-habit-pattern-mining.git
 cd study-habit-pattern-mining
 pip install -r requirements.txt
 streamlit run app.py
